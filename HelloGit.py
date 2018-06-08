@@ -13,9 +13,9 @@ Returns
 """
 
 def plus1(arg):
-    ***
+    """
     this is a test function
-    ***
+    """
     print "Function was called"
     return arg + 1
 
